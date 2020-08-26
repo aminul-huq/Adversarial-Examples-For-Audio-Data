@@ -38,7 +38,13 @@
 5. <strong>Detecting Adversarial Attacks On Audio-Visual Speech Recognition</strong>.
                <em> Pingchuan Ma, Stavros Petridis, Maja Pantic</em>. arxiv. 
                <strong>2019</strong> [<strong>Detection</strong>] <strong></strong> [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-1912-08639.html?view=bibtex)]               
-     
+6. <strong>Detecting Audio Attacks on {ASR} Systems with Dropout Uncertainty</strong>.
+               <em> Tejas Jayashankar, Jonathan Le Roux, Pierre Moulin</em>. arxiv. 
+               <strong>2020</strong> [<strong>Detection</strong>] <strong></strong> [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2006-01906.html?view=bibtex)] 
+7. <strong>{MP3} Compression To Diminish Adversarial Noise in End-to-End Speech Recognition</strong>.
+               <em> Iustina Andronic, Ludwig K{\"{u}}rzinger, Edgar Ricardo Chavez Rosas, Gerhard Rigoll, Bernhard U. Seeber</em>. arxiv. 
+               <strong>2019</strong> [<strong>Processing</strong>] <strong></strong> [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2007-12892.html?view=bibtex)] 
+
 
 
 
