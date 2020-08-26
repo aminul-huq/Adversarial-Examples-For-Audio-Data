@@ -35,6 +35,10 @@
 4. <strong>Characterizing Speech Adversarial Examples Using Self-Attention U-Net Enhancement</strong>.
                <em> Chao-Han Huck Yang, Jun Qi, Pin-Yu Chen, Xiaoli Ma and Chin-Hui Lee</em>. 45th International Conference on Acoustics, Speech, and Signal Processing. 
                <strong>2020</strong> [<strong>Precprocessing</strong>] <strong></strong> [[cite](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-2003-13917)]
+5. <strong>Detecting Adversarial Attacks On Audio-Visual Speech Recognition</strong>.
+               <em> Pingchuan Ma, Stavros Petridis, Maja Pantic</em>. arxiv. 
+               <strong>2019</strong> [<strong>Detection</strong>] <strong></strong> [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-1912-08639.html?view=bibtex)]               
+     
 
 
 
