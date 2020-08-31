@@ -58,9 +58,8 @@
                <em> Tejas Jayashankar, Jonathan Le Roux, Pierre Moulin</em>. arXiv. 
                <strong>2020</strong> [<strong>Detection</strong>] <strong></strong> [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2006-01906.html?view=bibtex)] 
                
-7. <strong>{MP3} Compression To Diminish Adversarial Noise in End-to-End Speech Recognition</strong>.
-               <em> Iustina Andronic, Ludwig K{\"{u}}rzinger, Edgar Ricardo Chavez Rosas, Gerhard Rigoll, Bernhard U. Seeber</em>. arXiv. 
-               <strong>2019</strong> [<strong>Processing</strong>] <strong></strong> [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2007-12892.html?view=bibtex)] 
+7. <strong>MP3 Compression To Diminish Adversarial Noise in End-to-End Speech Recognition</strong>.
+               <em> Iustina Andronic, Ludwig K{\"{u}}rzinger, Edgar Ricardo Chavez Rosas, Gerhard Rigoll, Bernhard U. Seeber</em>. 22nd International Conference on Speech and          Computer(SPECOM). <strong>2020</strong> [<strong>Processing</strong>] <strong></strong> [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2007-12892.html?view=bibtex)] 
                
 8. <strong> Defense against adversarial attacks on spoofing countermeasures of ASV</strong>.
                <em> Haibin Wu, Songxiang Liu, Helen Meng, Hung-yi Lee </em>. 45th International Conference on Acoustics, Speech, and Signal Processing 
