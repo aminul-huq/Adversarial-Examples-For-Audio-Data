@@ -26,6 +26,9 @@
                Model</strong>.<em> Yi Xie, Zhuohang Li, Cong Shi, Jian Liu, Yingying Chen, Bo Yuanl</em>. arXiv <strong>2020</strong>
                [<strong>White-Box-Attack</strong>] [<strong>Targeted and Untargeted</strong>] [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2004-12261.html?view=bibtex)]
 
+7. <strong>Defending Your Voice: Adversarial Attack on Voice Conversion</strong>.
+               <em> Chien-yu Huang, Yist Y. Lin, Hung-yi Lee, Lin-shan Lee </em>. arXiv. 
+               [<strong>White-Box-Attack</strong>] [<strong>Untargeted</strong>] [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2005-08781.html?view=bibtex)]
 
 
 # Adversarial Defense 
@@ -44,8 +47,8 @@
                <strong>2019</strong> [<strong>Precprocessing</strong>] <strong></strong> [[cite](https://dblp.uni-trier.de/rec/bibtex/conf/iclr/YangLCS19)]
                
 4. <strong>Characterizing Speech Adversarial Examples Using Self-Attention U-Net Enhancement</strong>.
-               <em> Chao-Han Huck Yang, Jun Qi, Pin-Yu Chen, Xiaoli Ma and Chin-Hui Lee</em>. 45th International Conference on Acoustics, Speech, and Signal Processing. 
-               <strong>2020</strong> [<strong>Precprocessing</strong>] <strong></strong> [[cite](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-2003-13917)]
+               <em> Chao-Han Huck Yang, Jun Qi, Pin-Yu Chen, Xiaoli Ma and Chin-Hui Lee</em>. 45th International Conference on Acoustics, Speech, and Signal Processing 
+               (ICASSP). <strong>2020</strong> [<strong>Precprocessing</strong>] <strong></strong> [[cite](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-2003-13917)]
                
 5. <strong>Detecting Adversarial Attacks On Audio-Visual Speech Recognition</strong>.
                <em> Pingchuan Ma, Stavros Petridis, Maja Pantic</em>. arXiv. 
@@ -58,6 +61,10 @@
 7. <strong>{MP3} Compression To Diminish Adversarial Noise in End-to-End Speech Recognition</strong>.
                <em> Iustina Andronic, Ludwig K{\"{u}}rzinger, Edgar Ricardo Chavez Rosas, Gerhard Rigoll, Bernhard U. Seeber</em>. arXiv. 
                <strong>2019</strong> [<strong>Processing</strong>] <strong></strong> [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2007-12892.html?view=bibtex)] 
+               
+8. <strong> Defense against adversarial attacks on spoofing countermeasures of ASV</strong>.
+               <em> Haibin Wu, Songxiang Liu, Helen Meng, Hung-yi Lee </em>. 45th International Conference on Acoustics, Speech, and Signal Processing 
+               (ICASSP). <strong>2020</strong> [<strong>White-Box</strong>] <strong></strong> [[cite](https://dblp.uni-trier.de/rec/conf/icassp/WuLML20.html?view=bibtex)]
 
 
 
