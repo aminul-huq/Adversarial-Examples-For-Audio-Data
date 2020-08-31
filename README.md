@@ -63,7 +63,7 @@
                
 8. <strong> Defense against adversarial attacks on spoofing countermeasures of ASV</strong>.
                <em> Haibin Wu, Songxiang Liu, Helen Meng, Hung-yi Lee </em>. 45th International Conference on Acoustics, Speech, and Signal Processing 
-               (ICASSP). <strong>2020</strong> [<strong>White-Box</strong>] <strong></strong> [[cite](https://dblp.uni-trier.de/rec/conf/icassp/WuLML20.html?view=bibtex)]
+               (ICASSP). <strong>2020</strong> [<strong>Preprocessing and Adversarial Training</strong>] <strong></strong> [[cite](https://dblp.uni-trier.de/rec/conf/icassp/WuLML20.html?view=bibtex)]
 
 
 
