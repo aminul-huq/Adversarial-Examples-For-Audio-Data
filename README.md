@@ -30,6 +30,10 @@
                <em> Chien-yu Huang, Yist Y. Lin, Hung-yi Lee, Lin-shan Lee </em>. arXiv. 
                [<strong>White-Box-Attack</strong>] [<strong>Untargeted</strong>] [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-2005-08781.html?view=bibtex)]
 
+8. <strong>Fooling End-to-end Speaker Verification by Adversarial Examples</strong>.
+               <em> Felix Kreuk, Yossi Adi, Moustapha Ciss{\'{e}}, Joseph Keshet </em>19th Annual Conference of the International Speech Communication Association. <strong>2018</strong> [<strong>White-Box-Attack</strong>] [<strong>Targeted</strong>] [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-1801-03339.html?view=bibtex)]
+
+
 
 # Adversarial Defense 
 
@@ -65,7 +69,11 @@
                <em> Haibin Wu, Songxiang Liu, Helen Meng, Hung-yi Lee </em>. 45th International Conference on Acoustics, Speech, and Signal Processing 
                (ICASSP). <strong>2020</strong> [<strong>Preprocessing and Adversarial Training</strong>] <strong></strong> [[cite](https://dblp.uni-trier.de/rec/conf/icassp/WuLML20.html?view=bibtex)]
 
+9. <strong> Adversarial Regularization for End-to-End Robust Speaker Verification</strong>.
+               <em> Qing Wang, Pengcheng Guo, Sining Sun, Lei Xie, John H. L. Hansen </em>. 20th Annual Conference of the International Speech Communication Association. <strong>2019</strong> [<strong>Adversarial Training</strong>] [[cite](https://dblp.uni-trier.de/rec/conf/interspeech/WangGSXH19.html?view=bibtex)]
 
+10. <strong> Adversarial Examples for Improving End-to-end Attention-based Small-footprint Keyword Spotting </strong>.
+               <em> Xiong Wang, Sining Sun, Changhao Shan, Jingyong Hou, Lei Xie, Shen Li, Xin Lei </em>. </em>. 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP). <strong>2019</strong> [<strong>Adversarial Training</strong>] [[cite](https://dblp.uni-trier.de/rec/conf/icassp/WangSSHXLL19.html?view=bibtex)]
 
 
 
