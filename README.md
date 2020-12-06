@@ -33,6 +33,8 @@
 8. <strong>Fooling End-to-end Speaker Verification by Adversarial Examples</strong>.
                <em> Felix Kreuk, Yossi Adi, Moustapha Ciss{\'{e}}, Joseph Keshet </em>19th Annual Conference of the International Speech Communication Association. <strong>2018</strong> [<strong>White-Box-Attack</strong>] [<strong>Targeted</strong>] [[cite](https://dblp.uni-trier.de/rec/journals/corr/abs-1801-03339.html?view=bibtex)]
 
+9. <strong>Universal Adversarial Attacks On Spoken Language Assessment Systems</strong>.
+               <em> Vyas Raina, Mark J. F. Gales, Kate Knill. </em> INTERSPEECH. <strong>2020</strong> [<strong>Black-Box-Attack</strong>] [<strong>Untargeted</strong>] [[cite](https://dblp.uni-trier.de/rec/conf/interspeech/RainaGK20.html?view=bibtex)]
 
 
 # Adversarial Defense 
@@ -73,11 +75,13 @@
                <em> Qing Wang, Pengcheng Guo, Sining Sun, Lei Xie, John H. L. Hansen </em>. 20th Annual Conference of the International Speech Communication Association. <strong>2019</strong> [<strong>Adversarial Training</strong>] [[cite](https://dblp.uni-trier.de/rec/conf/interspeech/WangGSXH19.html?view=bibtex)]
 
 10. <strong> Adversarial Examples for Improving End-to-end Attention-based Small-footprint Keyword Spotting </strong>.
-               <em> Xiong Wang, Sining Sun, Changhao Shan, Jingyong Hou, Lei Xie, Shen Li, Xin Lei </em>. </em>. 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP). <strong>2019</strong> [<strong>Adversarial Training</strong>] [[cite](https://dblp.uni-trier.de/rec/conf/icassp/WangSSHXLL19.html?view=bibtex)]
+               <em> Xiong Wang, Sining Sun, Changhao Shan, Jingyong Hou, Lei Xie, Shen Li, Xin Lei </em>. </em> 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP). <strong>2019</strong> [<strong>Adversarial Training</strong>] [[cite](https://dblp.uni-trier.de/rec/conf/icassp/WangSSHXLL19.html?view=bibtex)]
                
 11. <strong> Investigating Robustness of Adversarial Samples Detection for Automatic Speaker Verification </strong>.
-               <em> Xu Li, Na Li, Jinghua Zhong, Xixin Wu, Xunying Liu, Dan Su, Dong Yu, Helen Meng </em>. </em>. INTERSPEECH. <strong>2020</strong> [<strong>Detection (Network)</strong>] [[cite](https://dblp.uni-trier.de/rec/conf/interspeech/LiLZWLSYM20.html?view=bibtex)]
+               <em> Xu Li, Na Li, Jinghua Zhong, Xixin Wu, Xunying Liu, Dan Su, Dong Yu, Helen Meng </em>. </em> INTERSPEECH. <strong>2020</strong> [<strong>Detection (Network)</strong>] [[cite](https://dblp.uni-trier.de/rec/conf/interspeech/LiLZWLSYM20.html?view=bibtex)]
 
+12. <strong> Speaker Identification for Household Scenarios with Self-attention and Adversarial Training </strong>.
+               <em> Ruirui Li, Jyun-Yu Jiang, Xian Wu, Chu-Cheng Hsieh, Andreas Stolcke </em> </em>. INTERSPEECH. <strong>2020</strong> [<strong> Adversarial Training </strong>] [[cite](https://dblp.uni-trier.de/rec/conf/interspeech/LiJWHS20.html?view=bibtex)]
 
 
 
