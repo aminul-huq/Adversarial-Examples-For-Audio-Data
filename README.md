@@ -74,6 +74,10 @@
 
 10. <strong> Adversarial Examples for Improving End-to-end Attention-based Small-footprint Keyword Spotting </strong>.
                <em> Xiong Wang, Sining Sun, Changhao Shan, Jingyong Hou, Lei Xie, Shen Li, Xin Lei </em>. </em>. 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP). <strong>2019</strong> [<strong>Adversarial Training</strong>] [[cite](https://dblp.uni-trier.de/rec/conf/icassp/WangSSHXLL19.html?view=bibtex)]
+               
+11. <strong> Investigating Robustness of Adversarial Samples Detection for Automatic Speaker Verification </strong>.
+               <em> Xu Li, Na Li, Jinghua Zhong, Xixin Wu, Xunying Liu, Dan Su, Dong Yu, Helen Meng </em>. </em>. INTERSPEECH. <strong>2020</strong> [<strong>Detection (Network)</strong>] [[cite](https://dblp.uni-trier.de/rec/conf/interspeech/LiLZWLSYM20.html?view=bibtex)]
+
 
 
 
